@@ -1,0 +1,5 @@
+//First time to ues github learn JSP.
+note1:<form>代表表单主要用于登录窗口的开发.语法:<input type="",name="">.
+note2:request为客户端发送一次请求，请求可以被转发。response为响应请求。由服务器发送。方法：getparamater(""); Object getattribute("");setattribute();
+note3:session/Application   同request都有set/getattribute的方法。但是作用域不同。
+note4：cookie、session都有缓存功能。cookie保存再客户端，session保存再服务端。session与cookie的ID一一对应。session相对于cookie比较安全。session在服务端进行添加。客户端进行请求使用，而cookie为
